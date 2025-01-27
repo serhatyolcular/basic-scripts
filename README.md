@@ -1,0 +1,2 @@
+# basic-scripts
+for fun
